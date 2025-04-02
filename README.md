@@ -34,7 +34,9 @@
 
 ## 📣 Overview <a name="overview"></a>
 
-https://github.com/user-attachments/assets/65909519-35a0-4e1b-be9c-dc18d53f6a0a
+
+
+https://github.com/user-attachments/assets/2fb6d8fa-050b-4ded-99cc-46051cf2e4f9
 
 
 Here we showcase how the WorldScore-Static metric measures two models given an initial scene of **a bedroom** with a specified camera path—**"pan left" → "move left" → "pull out"**. While existing benchmarks rate Models A and B similarly based on single-scene video quality, our WorldScore benchmark differentiates their world generation capabilities by identifying that Model B fails to generate a new scene or follow the instructed camera movement.
