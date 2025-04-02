@@ -1,14 +1,14 @@
 # <p align="center"><img src="assets/worldscore.png" height=100></p>WorldScore: A Unified Evaluation Benchmark for World Generation
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-    <a href=''><img src='https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red'></a>
+    <a href='https://arxiv.org/abs/2504.00983'><img src='https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red'></a>
     <a href='https://haoyi-duan.github.io/WorldScore/'><img src='https://img.shields.io/badge/WorldScore-Website-green?logo=googlechrome&logoColor=green'></a>
     <a href='https://huggingface.co/datasets/Howieeeee/WorldScore'><img src='https://img.shields.io/badge/Dataset-Huggingface-yellow?logo=huggingface&logoColor=yellow'></a>
     <a href='https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard'><img src='https://img.shields.io/badge/Leaderboard-Huggingface-yellow?logo=huggingface&logoColor=yellow'></a>
 </div>
 
 
-> #### [WorldScore: A Unified Evaluation Benchmark for World Generation]()
+> #### [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983)
 >
 > ##### [Haoyi Duan*](https://haoyi-duan.github.io/), [Hong-Xing "Koven" Yu*](https://kovenyu.com/), [Sirui Chen](https://www.linkedin.com/in/sirui-c-6492a0232/), [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li), [Jiajun Wu](https://jiajunwu.com/) ("*" denotes equal contribution)
 
