@@ -27,7 +27,7 @@
 
 ## 🔥 Updates <a name="updates"></a>
 
-- [04/2025] Paper released <a href=''><img src='https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red'></a>.
+- [04/2025] Paper released <a href='https://arxiv.org/abs/2504.00983'><img src='https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red'></a>.
 - [04/2025] Code released.
 - [03/2025] Leaderboard released <a href='https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard'><img src='https://img.shields.io/badge/Leaderboard-Huggingface-yellow?logo=huggingface&logoColor=yellow'></a>.
 - [03/2025] Dataset released <a href='https://huggingface.co/datasets/Howieeeee/WorldScore'><img src='https://img.shields.io/badge/Dataset-Huggingface-yellow?logo=huggingface&logoColor=yellow'></a>.
