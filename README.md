@@ -399,5 +399,10 @@ See most updated ranking and numerical results at our Leaderboard <a href='https
 ## ✒️ Citation <a name="citation"></a>
 
 ```
-Comming soon!
+@article{duan2025worldscore,
+  title={WorldScore: A Unified Evaluation Benchmark for World Generation},
+  author={Duan, Haoyi and Yu, Hong-Xing and Chen, Sirui and Fei-Fei, Li and Wu, Jiajun},
+  journal={arXiv preprint arXiv:2504.00983},
+  year={2025}
+}
 ```
