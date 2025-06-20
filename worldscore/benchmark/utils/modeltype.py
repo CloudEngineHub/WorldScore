@@ -25,5 +25,6 @@ type2model = {
         "allegro_ti2v",
         "gen_3_i2v",
         "minimax_i2v",
+        "ltx_video_i2v",
     ]
 }
