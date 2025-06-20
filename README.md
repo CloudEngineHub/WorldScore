@@ -226,14 +226,6 @@ Ensure that your `.env` file has correctly defined `DATA_PATH` and you've export
 
 ## ✅ Evaluation <a name="evaluation"></a>
 
-Run the following command to check the completeness of world generation:
-
-```shell
-worldscore-analysis -cd --model_name <model_name>
-```
-
-If incomplete, run [generation](#run_generation) first. If completed, now you can run the WorldScore evaluation to assess your model performance.
-
 #### 1. Environment Setup
 
 - ###### Create a new conda environment
@@ -303,6 +295,14 @@ If incomplete, run [generation](#run_generation) first. If completed, now you ca
     ```shell
     pip install .
     ```
+
+(Optional) Run the following command to check the completeness of world generation:
+
+```shell
+worldscore-analysis -cd --model_name <model_name>
+```
+
+If incomplete, run [generation](#run_generation) first. If completed, now you can run the WorldScore evaluation to assess your model performance.
 
 #### 2. Download Evaluation Checkpoints
 
