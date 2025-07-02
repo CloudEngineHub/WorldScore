@@ -251,7 +251,7 @@ Ensure that your `.env` file has correctly defined `DATA_PATH` and you've export
     pip install evo --upgrade --no-binary evo
     pip install gdown
     
-    git submodule update --init thirdparty/DROID-SLAM
+    git submodule update --init --recursive thirdparty/DROID-SLAM
     cd thirdparty/DROID-SLAM/
     python setup.py install
     cd ../..
