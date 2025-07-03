@@ -289,6 +289,11 @@ Ensure that your `.env` file has correctly defined `DATA_PATH` and you've export
 
     ```shell
     pip install causal_conv1d==1.5.0.post8 mamba_ssm==2.2.4
+
+    # If above installation failed, you can try building from source
+    git clone https://github.com/state-spaces/mamba.git && cd mamba
+    pip install .
+    cd ../
     ```
 
   - ###### Install WorldScore dependencies
