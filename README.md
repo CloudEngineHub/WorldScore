@@ -321,6 +321,10 @@ wget -q -P ./worldscore/benchmark/metrics/checkpoints https://dl.fbaipublicfiles
 wget -q -P ./worldscore/benchmark/metrics/checkpoints https://huggingface.co/facebook/sam2.1-hiera-base-plus/resolve/main/sam2.1_hiera_base_plus.pt
 
 wget -q -P ./worldscore/benchmark/metrics/checkpoints https://huggingface.co/MCG-NJU/VFIMamba_ckpts/resolve/main/ckpt/VFIMamba.pkl
+
+# Download droid.pth
+gdown 1PpqVt1H4maBa_GbPJp4NwxRsd9jk-elh
+mv droid.pth ./worldscore/benchmark/metrics/checkpoints/
 ```
 
 #### 3. Run WorldScore Evaluation
