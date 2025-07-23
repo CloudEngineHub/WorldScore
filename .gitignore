@@ -1,6 +1,7 @@
 data
 submitit_logs
 models/checkpoints/*
+models/*
 world_generators/checkpoints/*
 
 # Byte-compiled / optimized / DLL files
