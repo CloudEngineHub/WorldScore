@@ -37,3 +37,6 @@
 [submodule "thirdparty/LTX-Video"]
 	path = thirdparty/LTX-Video
 	url = https://github.com/Lightricks/LTX-Video.git
+[submodule "Wan2.1"]
+	path = thirdparty/Wan2.1
+	url = https://github.com/Wan-Video/Wan2.1.git

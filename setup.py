@@ -9,7 +9,6 @@ setup(
     packages=find_namespace_packages(include=["worldscore*"]), 
     python_requires='>=3.8',
     install_requires=[
-        "PyAV",
         "av",
         "python-dotenv",
         "omegaconf",
