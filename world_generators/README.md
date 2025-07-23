@@ -287,6 +287,31 @@ Then generate videos using the following script:
 python world_generators/generate_videos.py --model-name minimax_i2v
 ```
 
+#### Wan2.1
+
+We evaluate [Wan2.1](https://github.com/Wan-Video/Wan2.1). To generate videos, first create a virtual environment.
+
+```sh
+git submodule update --init thirdparty/Wan2.1
+python -m venv .venv/wan
+source .venv/wan/bin/activate
+pip install -r requirements/wan.txt
+pip install .
+```
+
+Download the model using higgingface-cli:
+
+```shell
+pip install "huggingface_hub[cli]"
+huggingface-cli download Wan-AI/Wan2.1-I2V-14B-480P --local-dir ./models/Wan2.1-I2V-14B-480P
+```
+
+Then we generate videos using the command below:
+
+```sh
+python world_generators/generate_videos.py --model-name wan2.1_i2v
+```
+
 ## 📁 Output Format <a name="output_format"></a>
 
 Once the generation is complete, the output are stored in `MODEL_PATH/<model_name>/worldscore_output` and have the following structure:
