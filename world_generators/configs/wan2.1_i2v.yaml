@@ -1,4 +1,4 @@
-_target_: world_generators.wan2.1.Wan2_1
+_target_: world_generators.wan2_1.Wan2_1
 model_name:  wan2.1_i2v
 generation_type: i2v # or t2v
 task: i2v-14B
