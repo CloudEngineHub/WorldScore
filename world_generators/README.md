@@ -50,7 +50,7 @@ git clone https://github.com/KovenYu/WonderJourney.git
 cd WonderJourney
 ```
 
-Then copy run_wj_worldscore.py to the root directory.
+Then copy [run_wj_worldscore.py](https://github.com/haoyi-duan/WorldScore/blob/main/world_generators/run_wj_worldscore.py) to the root directory.
 
 - WonderWorld
 
@@ -59,7 +59,7 @@ git clone https://github.com/KovenYu/WonderWorld.git
 cd WonderWorld
 ```
 
-Then copy run_ww_worldscore.py to the root directory.
+Then copy [run_ww_worldscore.py](https://github.com/haoyi-duan/WorldScore/blob/main/world_generators/run_ww_worldscore.py) to the root directory.
 
 ## 🎬 Model Families <a name="model-families"></a>
 
