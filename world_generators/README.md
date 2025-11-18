@@ -41,6 +41,26 @@ if __name__ == "__main__":
             generate(start_keyframe, inpainting_prompt_list, cameras, cameras_interp, helper)
 ```
 
+#### Examples
+
+- WonderJourney
+
+```
+git clone https://github.com/KovenYu/WonderJourney.git
+cd WonderJourney
+```
+
+Then copy run_wj_worldscore.py to the root directory.
+
+- WonderWorld
+
+```
+git clone https://github.com/KovenYu/WonderWorld.git
+cd WonderWorld
+```
+
+Then copy run_ww_worldscore.py to the root directory.
+
 ## 🎬 Model Families <a name="model-families"></a>
 
 We currently provide some examples of video generation models that we have included in the WorldScore benchmark. We welcome further participation in the WorldScore challenge to push the boundaries of world generation.
