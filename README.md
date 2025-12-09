@@ -366,7 +366,7 @@ See most updated ranking and numerical results at our Leaderboard <a href='https
 
 | Sampled by | Evaluated by | Comments                                                     |
 | ---------- | ------------ | ------------------------------------------------------------ |
-| Your team  | Your team    | **Highly recommended**, you can follow instructions from [Setup Instructions](#setup-instructions), [World Generation](#world-generation ), and [Evaluation](#evaluation), and submit the evaluation result `worldscore_output/worldscore.json` to the <img src='https://img.shields.io/badge/Leaderboard-Huggingface-yellow?logo=huggingface&logoColor=yellow'> using the `Submit here!` Form. The evaluation results will be automatically updated to the leaderboard. |
+| Your team  | Your team    | **Highly recommended**, you can follow instructions from [Setup Instructions](#setup-instructions), [World Generation](#world-generation ), and [Evaluation](#evaluation), and submit the evaluation result `worldscore_output/worldscore.json` to haoyid@stanford.edu. The evaluation results will be updated to the leaderboard by WorldScore Team. |
 | Your team  | WorldScore   | You can also submit your video samples to us for evaluation, but the progress depends on our available time and resources. |
 
 > [!NOTE]
